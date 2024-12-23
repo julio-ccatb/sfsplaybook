@@ -9,7 +9,7 @@ const Hero = () => {
 				/>
 			</video>
 			<div className='hero-content'>
-				<h1>
+				<h1 className='text-blue-700'>
 					PLAY LIKE A <span className='span-title'>PRO</span>!
 				</h1>
 				<h2>And dominate your ranked games.</h2>
