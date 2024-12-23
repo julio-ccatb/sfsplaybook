@@ -12,7 +12,7 @@ const Navbar = () => {
 				{links.map((link) => {
 					return (
 						<li className='navbar-link' key={link.id}>
-							<a className='text-blue-400' href={link.url}>
+							<a className='text-yellow-400' href={link.url}>
 								{link.name}
 							</a>
 						</li>
