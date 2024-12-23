@@ -1,6 +1,6 @@
 const Hero = () => {
 	return (
-		<div className='hero bg-red-500'>
+		<div className='hero '>
 			<div className='overlay'></div>
 			<video autoPlay loop muted>
 				<source
@@ -9,7 +9,7 @@ const Hero = () => {
 				/>
 			</video>
 			<div className='hero-content'>
-				<h1 className='text-blue-700'>
+				<h1 className=''>
 					PLAY LIKE A <span className='span-title'>PRO</span>!
 				</h1>
 				<h2>And dominate your ranked games.</h2>

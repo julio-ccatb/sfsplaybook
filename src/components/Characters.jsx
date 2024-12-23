@@ -3,8 +3,7 @@ import { characters } from '../../data';
 const Characters = () => {
 	return (
 		<section id='characters' className='character-section'>
-			<div className=''></div>
-			<h1 className='text-green-500'>Characters</h1>
+			<h1 className=''>Characters</h1>
 			<div className='character-container'>
 				<ul className='character-grid'>
 					{characters.map((character) => {
