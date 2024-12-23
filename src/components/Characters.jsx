@@ -1,14 +1,11 @@
 import { characters } from "../../data";
 
 
-
-
-
 const Characters = () => {
 
 
   return (
-    <section className="character-section">
+    <section id="characters" className="character-section">
       <div className=""></div>
       <h1>Characters</h1>
       <div className="character-container">
