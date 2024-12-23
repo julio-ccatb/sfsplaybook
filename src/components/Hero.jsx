@@ -4,7 +4,7 @@ const Hero = () => {
 			<div className='overlay'></div>
 			<video autoPlay loop muted>
 				<source
-					src='https://www.youtube.com/watch?v=1INU3FOJsTw'
+					src='https://www.youtube.com/watch?v=1INU3FOJsTw1'
 					type='video/mp4'
 				/>
 			</video>
