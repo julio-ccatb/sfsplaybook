@@ -1,6 +1,6 @@
 const Hero = () => {
 	return (
-		<div className='hero'>
+		<div className='hero bg-red-500'>
 			<div className='overlay'></div>
 			<video autoPlay loop muted>
 				<source
